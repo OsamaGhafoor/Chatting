@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "301884583846",
+    "project_id": "whatsapp-9e588",
+    "storage_bucket": "whatsapp-9e588.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301884583846:android:2bad08892b7be6d968a967",
+        "android_client_info": {
+          "package_name": "com.cubicsol.chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301884583846-mtrf320tjolop6mthvammvc4kcn9cvrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVenbTJL76QeUu0EiltTWFNutl8zVH3GM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301884583846-mtrf320tjolop6mthvammvc4kcn9cvrl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
